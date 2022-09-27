@@ -13,15 +13,17 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   id:: 6332990b-9609-4487-b2c2-83dac4abc39d
 	- to limit the amount of something, especially money, that can be used, allowed, or spent 限制〔尤指金钱〕
-- Ursula von der Leyen
-  ls-type:: annotation
+- Ursula von der Leyen #card
   hl-page:: 4
+  ls-type:: annotation
   id:: 6332994c-ac67-4f60-a638-badc359b29ef
+  collapsed:: true
 	- he European Commission’s president,
-- cushion
+- cushion #card
   ls-type:: annotation
   hl-page:: 4
   id:: 633299f3-8463-462d-9747-7c4cdf38b263
+  collapsed:: true
 	- verb TRANSITIVE  
 	  1  to make the effect of a fall or hit less painful, for example by having something soft in the way  {{cloze 缓冲}}
 	   [[$blue]]==His landing was cushioned by the fresh snow that had fallen.==
@@ -32,7 +34,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	  [[$blue]]==cushion somebody from/against something==
 	  5 Parents today often feel their children should be cushioned from the outside world.
 	  [[$blue]]==Many parents try to cushion their children from the outside world.==
-- windfall
+- windfall #card
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a03-039d-44c3-8f13-57e68dc37cdf
@@ -43,7 +45,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	  [[$blue]]==windfall gain/profit etc. (=high profit that you did not expect to make)== 
 	  意外的巨大收获/巨额利润等
 	  2. a piece of fruit that has fallen off a tree 树上掉落的果实，被风吹落的果实
-- ebates 
+- ebates #card
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a4f-7f09-4833-9d92-a941770d37c2
@@ -51,14 +53,14 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	   [[$blue]]==You may be entitled to a tax rebate.==
 	  你也许可以享受退税。
 	-
-- slash
-  ls-type:: annotation
+- slash #card
   hl-page:: 4
+  ls-type:: annotation
   id:: 63329a68-afae-41dd-9ffb-60443a37bc7f
 	- to greatly reduce an amount, price etc – used especially in newspapers and advertising 大幅度削减 〔数量、价格等；尤用于报纸和广告〕 SYN cut
 	   [[$blue]]==The workforce has been slashed by 50%.==
 	  劳动力已削减了 50%。
-- exert
+- exert #card
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a74-6c84-43ad-8a9e-898225fb676e
