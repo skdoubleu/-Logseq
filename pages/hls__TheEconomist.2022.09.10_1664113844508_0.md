@@ -31,7 +31,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	   {{cloze 缓和裁员打击的不菲的离职补贴}}
 	  cushion somebody from/against something
 	  5 Parents today often feel their children should be cushioned from the outside world.
-	  N Many parents try to cushion their children from the outside world.
+	  [[$blue]]==Many parents try to cushion their children from the outside world.==
 - windfall
   ls-type:: annotation
   hl-page:: 4
@@ -71,3 +71,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	   [[$blue]]==He has exerted himself tirelessly on behalf of the charity.==
 	  他为这个慈善组织奋斗不懈。
 -
+- Zaporizhia
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 63329c57-9003-4ddf-ac79-af24a52c1888
