@@ -26,3 +26,11 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a03-039d-44c3-8f13-57e68dc37cdf
+- ebates 
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 63329a4f-7f09-4833-9d92-a941770d37c2
+- slashed
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 63329a68-afae-41dd-9ffb-60443a37bc7f
