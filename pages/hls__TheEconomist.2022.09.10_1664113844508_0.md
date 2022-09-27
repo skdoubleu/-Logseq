@@ -22,3 +22,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 633299f3-8463-462d-9747-7c4cdf38b263
+- windfall
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 63329a03-039d-44c3-8f13-57e68dc37cdf
