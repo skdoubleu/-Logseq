@@ -101,3 +101,11 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 5
   id:: 6332a178-0cb0-458b-a913-9b2be8dc6c68
+- referendum
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 6332a215-fe53-4469-93bd-657d0c57f470
+- plagued
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 6332a22c-e8c4-4a1e-863b-25d2f193a7e0
