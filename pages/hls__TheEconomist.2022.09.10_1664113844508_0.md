@@ -62,4 +62,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a74-6c84-43ad-8a9e-898225fb676e
+	- 1  to use your power, influence etc in order to make something happen 运用〔权力〕；施加〔影响力〕
+	   [[$blue]]==They exerted considerable influence within the school.==
+	  他们在校内施加了很大的影响力。
+	   [[$blue]]==Environmental groups are exerting pressure on the government to tighten pollution laws.==
+	  环境保护组织在向政府施加压力，要求从严执行环保法律法规。
+	  2  exert yourself to work very hard and use a lot of physical or mental energy 竭力，努力
+	   [[$blue]]==He has exerted himself tirelessly on behalf of the charity.==
+	  他为这个慈善组织奋斗不懈。
 -
