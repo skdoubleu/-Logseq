@@ -34,3 +34,8 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a68-afae-41dd-9ffb-60443a37bc7f
+- exert
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 63329a74-6c84-43ad-8a9e-898225fb676e
+-
