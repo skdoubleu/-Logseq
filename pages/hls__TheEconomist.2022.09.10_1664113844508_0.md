@@ -79,23 +79,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 5
   id:: 63329cd5-aa97-40d9-84cd-4b2487f3ddce
-- IAEA 
+- IAE
   ls-type:: annotation
   hl-page:: 5
   id:: 63329cec-181d-4d62-80c1-cffd4d813433
-- Zaporizhia
-  ls-type:: annotation
-  hl-page:: 5
-  id:: 63329d05-27f7-4ee6-8362-dc9d57fde6cb
-- Zaporizhia
-  ls-type:: annotation
-  hl-page:: 5
-  id:: 63329d05-5af5-471d-9cee-834c91e1d425
-- Zaporizhia
-  ls-type:: annotation
-  hl-page:: 5
-  id:: 63329d06-57ed-41db-b617-5f9ac433cd72
-- Zaporizhia
-  ls-type:: annotation
-  hl-page:: 5
-  id:: 63329d0a-9ac3-4c32-800d-f76d04333990
