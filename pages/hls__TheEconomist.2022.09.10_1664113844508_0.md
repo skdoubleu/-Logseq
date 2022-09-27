@@ -47,6 +47,9 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a4f-7f09-4833-9d92-a941770d37c2
+	- an amount of money that is paid back to you when you have paid too much tax, rent etc 〔税、租金等的〕退款
+	   You may be entitled to a tax rebate.
+	  你也许可以享受退税。
 - slashed
   ls-type:: annotation
   hl-page:: 4
