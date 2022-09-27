@@ -36,6 +36,13 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a03-039d-44c3-8f13-57e68dc37cdf
+	- windfall /ˈwɪndfɔːl $ -fɒːl/ noun COUNTABLE  
+	  1  an amount of money that you get unexpectedly 意外之财
+	   [[$blue]]==his £2 million windfall in the lottery==
+	  他彩票中奖得来的200万英镑意外之财
+	  [[$blue]]==windfall gain/profit etc. (=high profit that you did not expect to make)== 
+	  意外的巨大收获/巨额利润等
+	  2. a piece of fruit that has fallen off a tree 树上掉落的果实，被风吹落的果实
 - ebates 
   ls-type:: annotation
   hl-page:: 4
