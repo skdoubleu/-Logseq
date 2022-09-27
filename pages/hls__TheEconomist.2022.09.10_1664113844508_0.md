@@ -101,10 +101,20 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 5
   id:: 6332a178-0cb0-458b-a913-9b2be8dc6c68
+	- to refuse to consider someone’s idea, opinion etc, because you think it is not serious, true, or important 拒绝考虑，否定
+	   [[$blue]]==The government has dismissed criticisms that the country’s health policy is a mess.==
+	  有人认为国家医疗政策一塌糊涂，政府对这种批评持否认态度。
 - referendum
   ls-type:: annotation
   hl-page:: 6
   id:: 6332a215-fe53-4469-93bd-657d0c57f470
+	- NOUN
+	- when people vote in order to make a decision about a particular subject, rather than voting for a person 〔为表决某问题的〕全民投票；全民公决
+	  referendum on
+	   a referendum on independence
+	  就独立问题进行的全民公决
+	   The city council agreed to hold a referendum on the issue in November.
+	  市政会同意在11月就此问题进行全民投票。
 - plagued
   ls-type:: annotation
   hl-page:: 6
