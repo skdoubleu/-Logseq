@@ -113,7 +113,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	  referendum on
 	   [[$blue]]==a referendum on independence==
 	  就独立问题进行的全民公决
-	   The city council agreed to hold a referendum on the issue in November.
+	   [[$blue]]==The city council agreed to hold a referendum on the issue in November.==
 	  市政会同意在11月就此问题进行全民投票。
 - plagued
   ls-type:: annotation
