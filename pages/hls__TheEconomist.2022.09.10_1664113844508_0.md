@@ -97,7 +97,3 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   id:: 63329cec-181d-4d62-80c1-cffd4d813433
 	- LAEA is an acronym for Lambert azimuthal equal-area projection (LAEA)
 -
-- Russian-speaking populations
-  ls-type:: annotation
-  hl-page:: 5
-  id:: 63329fea-2a3e-4aa2-a4d3-1a352362c31e
