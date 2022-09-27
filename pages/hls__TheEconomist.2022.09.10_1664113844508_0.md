@@ -79,6 +79,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   hl-page:: 4
   ls-type:: annotation
   id:: 63329a4f-7f09-4833-9d92-a941770d37c2
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2022-10-01T07:27:18.689Z
+  card-last-reviewed:: 2022-09-27T07:27:18.690Z
+  card-last-score:: 3
 	- an amount of money that is paid back to you when you have paid too much tax, rent etc 〔税、租金等的〕退款
 	   [[$blue]]==You may be entitled to a tax rebate.==
 	  你也许可以享受退税。
@@ -87,6 +93,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   hl-page:: 4
   ls-type:: annotation
   id:: 63329a68-afae-41dd-9ffb-60443a37bc7f
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:27:28.714Z
+  card-last-reviewed:: 2022-09-27T07:27:28.714Z
+  card-last-score:: 5
 	- to greatly reduce an amount, price etc – used especially in newspapers and advertising 大幅度削减 〔数量、价格等；尤用于报纸和广告〕 SYN cut
 	   [[$blue]]==The workforce has been slashed by 50%.==
 	  劳动力已削减了 50%。
@@ -94,6 +106,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a74-6c84-43ad-8a9e-898225fb676e
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2022-10-01T07:27:37.055Z
+  card-last-reviewed:: 2022-09-27T07:27:37.056Z
+  card-last-score:: 3
 	- 1  to use your power, influence etc in order to make something happen 运用〔权力〕；施加〔影响力〕
 	   [[$blue]]==They exerted considerable influence within the school.==
 	  他们在校内施加了很大的影响力。
@@ -158,6 +176,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 6
   id:: 6332a215-fe53-4469-93bd-657d0c57f470
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:27:24.639Z
+  card-last-reviewed:: 2022-09-27T07:27:24.640Z
+  card-last-score:: 5
 	- NOUN
 	  when people vote in order to make a decision about a particular subject, rather than voting for a person 〔为表决某问题的〕全民投票；全民公决
 	  referendum on
@@ -169,6 +193,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   hl-page:: 6
   ls-type:: annotation
   id:: 6332a22c-e8c4-4a1e-863b-25d2f193a7e0
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:27:32.559Z
+  card-last-reviewed:: 2022-09-27T07:27:32.559Z
+  card-last-score:: 5
 	- verb TRANSITIVE  
 	  1  to cause pain, suffering, or trouble to someone, especially for a long period of time 不断困扰，折磨，使苦恼
 	  [[$red]]==be plagued by/with something==
