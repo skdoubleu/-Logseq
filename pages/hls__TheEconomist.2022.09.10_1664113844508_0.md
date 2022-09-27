@@ -95,6 +95,5 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   hl-page:: 5
   ls-type:: annotation
   id:: 63329cec-181d-4d62-80c1-cffd4d813433
-  collapsed:: true
 	- LAEA is an acronym for Lambert azimuthal equal-area projection (LAEA)
 -
