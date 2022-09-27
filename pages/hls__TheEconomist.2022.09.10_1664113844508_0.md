@@ -115,7 +115,15 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	  就独立问题进行的全民公决
 	   [[$blue]]==The city council agreed to hold a referendum on the issue in November.==
 	  市政会同意在11月就此问题进行全民投票。
-- plagued
-  ls-type:: annotation
+- plague
   hl-page:: 6
+  ls-type:: annotation
   id:: 6332a22c-e8c4-4a1e-863b-25d2f193a7e0
+	- verb TRANSITIVE  
+	  1  to cause pain, suffering, or trouble to someone, especially for a long period of time 不断困扰，折磨，使苦恼
+	  [[$red]]==be plagued by/with something==
+	   [[$blue]]==He was plagued by eye troubles.==
+	  他饱受眼疾困扰。
+	   [[$blue]]==Financial problems continued to plague the company.==
+	  资金问题持续困扰着该公司。
+-
