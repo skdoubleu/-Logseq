@@ -23,12 +23,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   hl-page:: 4
   id:: 633299f3-8463-462d-9747-7c4cdf38b263
 	- verb TRANSITIVE  
-	  1  to make the effect of a fall or hit less painful, for example by having something soft in the way 缓冲
+	  1  to make the effect of a fall or hit less painful, for example by having something soft in the way  {{cloze 缓冲}}
 	   His landing was cushioned by the fresh snow that had fallen.
 	  2  to protect someone from an unpleasant situation or the unpleasant effects  {{cloze of something 使免受冲击，减轻…的影响}}
 	  cushion the blow/impact (of something)
 	   generous leaving allowances to help cushion the blow of redundancy
-	  缓和裁员打击的不菲的离职补贴
+	   {{cloze 缓和裁员打击的不菲的离职补贴}}
 	  cushion somebody from/against something
 	  5 Parents today often feel their children should be cushioned from the outside world.
 	  N Many parents try to cushion their children from the outside world.
