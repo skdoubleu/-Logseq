@@ -73,12 +73,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	   [[$blue]]==He has exerted himself tirelessly on behalf of the charity.==
 	  他为这个慈善组织奋斗不懈。
 -
-- Zaporizhia
+- Zaporizhia #card
   ls-type:: annotation
   hl-page:: 5
   id:: 63329c57-9003-4ddf-ac79-af24a52c1888
 	- 扎波罗热市是乌克兰南部著名的行政、经济、文化中心。其工业潜力居乌克兰第三位，人口(90万)居全国第四位。第聂伯河流经该市，建有前苏联第一座最大的水电站第聂伯河水电站(135万千瓦)和船闸，是乌克兰水运、铁路、陆路通往黑海各国的交通要道和冶金、能源、机械生产基地，素有“欧洲粮仓”之称。乌克兰重要冶金工业中心，生产优质钢、铁合金等。还有汽车和飞机制造、电力（有核电站）、化学等工业。但轻纺产品缺乏。设有数所高等学校。
-- shelling
+- shelling #card
   ls-type:: annotation
   hl-page:: 5
   id:: 63329cd5-aa97-40d9-84cd-4b2487f3ddce
@@ -99,14 +99,14 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   id:: 63329cec-181d-4d62-80c1-cffd4d813433
 	- LAEA is an acronym for Lambert azimuthal equal-area projection (LAEA)
 -
-- dismiss
+- dismiss #card
   ls-type:: annotation
   hl-page:: 5
   id:: 6332a178-0cb0-458b-a913-9b2be8dc6c68
 	- to refuse to consider someone’s idea, opinion etc, because you think it is not serious, true, or important 拒绝考虑，否定
 	   [[$blue]]==The government has dismissed criticisms that the country’s health policy is a mess.==
 	  有人认为国家医疗政策一塌糊涂，政府对这种批评持否认态度。
-- referendum
+- referendum #card
   ls-type:: annotation
   hl-page:: 6
   id:: 6332a215-fe53-4469-93bd-657d0c57f470
@@ -117,7 +117,7 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	  就独立问题进行的全民公决
 	   [[$blue]]==The city council agreed to hold a referendum on the issue in November.==
 	  市政会同意在11月就此问题进行全民投票。
-- plague
+- plague #card
   hl-page:: 6
   ls-type:: annotation
   id:: 6332a22c-e8c4-4a1e-863b-25d2f193a7e0
