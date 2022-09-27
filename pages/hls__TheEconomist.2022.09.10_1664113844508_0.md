@@ -75,3 +75,11 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 5
   id:: 63329c57-9003-4ddf-ac79-af24a52c1888
+- shelling
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 63329cd5-aa97-40d9-84cd-4b2487f3ddce
+- IAEA 
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 63329cec-181d-4d62-80c1-cffd4d813433
