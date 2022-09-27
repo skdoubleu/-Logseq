@@ -77,10 +77,16 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 5
   id:: 63329c57-9003-4ddf-ac79-af24a52c1888
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2022-09-27T16:00:00.000Z
+  card-last-reviewed:: 2022-09-27T07:24:33.631Z
+  card-last-score:: 1
 	- 扎波罗热市是乌克兰南部著名的行政、经济、文化中心。其工业潜力居乌克兰第三位，人口(90万)居全国第四位。第聂伯河流经该市，建有前苏联第一座最大的水电站第聂伯河水电站(135万千瓦)和船闸，是乌克兰水运、铁路、陆路通往黑海各国的交通要道和冶金、能源、机械生产基地，素有“欧洲粮仓”之称。乌克兰重要冶金工业中心，生产优质钢、铁合金等。还有汽车和飞机制造、电力（有核电站）、化学等工业。但轻纺产品缺乏。设有数所高等学校。
-- shelling #card
-  ls-type:: annotation
+- shell #card
   hl-page:: 5
+  ls-type:: annotation
   id:: 63329cd5-aa97-40d9-84cd-4b2487f3ddce
 	- shell2 ●○○ verb TRANSITIVE  
 	  1  to fire shells from large guns at something 炮轰
