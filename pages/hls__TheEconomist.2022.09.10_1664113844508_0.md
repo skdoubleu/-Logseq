@@ -80,6 +80,17 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 5
   id:: 63329cd5-aa97-40d9-84cd-4b2487f3ddce
+	- shell2 ●○○ verb TRANSITIVE  
+	  1  to fire shells from large guns at something 炮轰
+	   [[$blue]]==The army has been shelling the town since yesterday.==
+	  军队从昨天开始就在炮轰这座镇子。
+	  ► see thesaurus at shoot
+	  2  to remove something such as beans or nuts from a shell or pod 剥去〔豆荚、坚果等〕的壳
+	   [[$blue]]==Josie was shelling peas in the kitchen.==
+	  乔茜在厨房里剥豆子。
+	  3 shell out (something) Phrasal Verb INFORMAL to pay a lot of money for something, especially unwillingly 〔尤指不情愿地〕花大价钱，付大笔钱
+	   [[$blue]]==If you want the repairs done right, you’ll have to shell out at least $800.==
+	  如果你想好好修，至少得花 800 美元。
 - LAEA
   hl-page:: 5
   ls-type:: annotation
