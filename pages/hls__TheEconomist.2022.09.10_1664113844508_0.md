@@ -13,7 +13,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   hl-page:: 4
   id:: 6332990b-9609-4487-b2c2-83dac4abc39d
 	- to limit the amount of something, especially money, that can be used, allowed, or spent 限制〔尤指金钱〕
-- Ursula von der Leyen,
+- Ursula von der Leyen
   ls-type:: annotation
   hl-page:: 4
   id:: 6332994c-ac67-4f60-a638-badc359b29ef
+	- he European Commission’s president,
+- cushion
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 633299f3-8463-462d-9747-7c4cdf38b263
