@@ -51,10 +51,13 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	   [[$blue]]==You may be entitled to a tax rebate.==
 	  你也许可以享受退税。
 	-
-- slashed
+- slash
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a68-afae-41dd-9ffb-60443a37bc7f
+	- to greatly reduce an amount, price etc – used especially in newspapers and advertising 大幅度削减 〔数量、价格等；尤用于报纸和广告〕 SYN cut
+	   [[$blue]]==The workforce has been slashed by 50%.==
+	  劳动力已削减了 50%。
 - exert
   ls-type:: annotation
   hl-page:: 4
