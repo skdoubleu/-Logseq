@@ -75,9 +75,9 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
 	  [[$blue]]==windfall gain/profit etc. (=high profit that you did not expect to make)== 
 	  意外的巨大收获/巨额利润等
 	  2. a piece of fruit that has fallen off a tree 树上掉落的果实，被风吹落的果实
-- ebates #card
-  ls-type:: annotation
+- ebate #card
   hl-page:: 4
+  ls-type:: annotation
   id:: 63329a4f-7f09-4833-9d92-a941770d37c2
 	- an amount of money that is paid back to you when you have paid too much tax, rent etc 〔税、租金等的〕退款
 	   [[$blue]]==You may be entitled to a tax rebate.==
@@ -145,6 +145,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 5
   id:: 6332a178-0cb0-458b-a913-9b2be8dc6c68
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:25:50.810Z
+  card-last-reviewed:: 2022-09-27T07:25:50.810Z
+  card-last-score:: 5
 	- to refuse to consider someone’s idea, opinion etc, because you think it is not serious, true, or important 拒绝考虑，否定
 	   [[$blue]]==The government has dismissed criticisms that the country’s health policy is a mess.==
 	  有人认为国家医疗政策一塌糊涂，政府对这种批评持否认态度。
