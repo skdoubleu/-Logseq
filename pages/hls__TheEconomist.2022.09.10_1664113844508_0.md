@@ -6,23 +6,47 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 6332986c-ec81-41ae-b738-4c81c52aa884
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:25:00.456Z
+  card-last-reviewed:: 2022-09-27T07:25:00.457Z
+  card-last-score:: 5
 	- someone who continues to support a government or country, especially during a period of change 忠诚的人〔尤指在变革时期继续支持政府或国家的人〕
 	-
 - cap #card
   hl-page:: 4
   ls-type:: annotation
   id:: 6332990b-9609-4487-b2c2-83dac4abc39d
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:25:05.128Z
+  card-last-reviewed:: 2022-09-27T07:25:05.128Z
+  card-last-score:: 5
 	- to limit the amount of something, especially money, that can be used, allowed, or spent 限制〔尤指金钱〕
 - Ursula von der Leyen #card
   hl-page:: 4
   ls-type:: annotation
   id:: 6332994c-ac67-4f60-a638-badc359b29ef
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2022-10-01T07:25:16.317Z
+  card-last-reviewed:: 2022-09-27T07:25:16.318Z
+  card-last-score:: 3
   collapsed:: true
-	- he European Commission’s president,
+	- the European Commission’s president,
 - cushion #card
   ls-type:: annotation
   hl-page:: 4
   id:: 633299f3-8463-462d-9747-7c4cdf38b263
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:25:40.149Z
+  card-last-reviewed:: 2022-09-27T07:25:40.150Z
+  card-last-score:: 5
   collapsed:: true
 	- verb TRANSITIVE  
 	  1  to make the effect of a fall or hit less painful, for example by having something soft in the way  {{cloze 缓冲}}
@@ -38,6 +62,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   ls-type:: annotation
   hl-page:: 4
   id:: 63329a03-039d-44c3-8f13-57e68dc37cdf
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:25:45.227Z
+  card-last-reviewed:: 2022-09-27T07:25:45.228Z
+  card-last-score:: 5
 	- windfall /ˈwɪndfɔːl $ -fɒːl/ noun COUNTABLE  
 	  1  an amount of money that you get unexpectedly 意外之财
 	   [[$blue]]==his £2 million windfall in the lottery==
@@ -88,6 +118,12 @@ title:: hls__TheEconomist.2022.09.10_1664113844508_0
   hl-page:: 5
   ls-type:: annotation
   id:: 63329cd5-aa97-40d9-84cd-4b2487f3ddce
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-10-01T07:24:48.532Z
+  card-last-reviewed:: 2022-09-27T07:24:48.535Z
+  card-last-score:: 5
 	- shell2 ●○○ verb TRANSITIVE  
 	  1  to fire shells from large guns at something 炮轰
 	   [[$blue]]==The army has been shelling the town since yesterday.==
