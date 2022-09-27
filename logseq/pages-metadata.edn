@@ -1,36 +1,9 @@
 [{:block/name "$blue",
-  :block/created-at 1664260926427,
-  :block/updated-at 1664260926427}
- {:block/name "63304009-ddbc-4919-b368-5b4cca4796b6",
-  :block/created-at 1664107290581,
-  :block/updated-at 1664107290581}
- {:block/name "63307be0-fdb2-4937-af68-037599d50789",
-  :block/created-at 1664130530444,
-  :block/updated-at 1664130530444}
- {:block/name "63307c04-7d8a-4845-80a7-fcd3b1810013",
-  :block/created-at 1664130637905,
-  :block/updated-at 1664130637905}
- {:block/name "63307c12-9902-4608-b6a2-0770f3d3510c",
-  :block/created-at 1664130691095,
-  :block/updated-at 1664130691095}
- {:block/name "63307c4b-2445-48d0-81f9-45ce64cd575e",
-  :block/created-at 1664130723762,
-  :block/updated-at 1664130723762}
- {:block/name "63308223-79e8-449c-9dbc-a1b19287cb02",
-  :block/created-at 1664130747855,
-  :block/updated-at 1664130747855}
- {:block/name "6330822c-35fc-43d5-b368-4ee0dfef6197",
-  :block/created-at 1664130747857,
-  :block/updated-at 1664130747857}
- {:block/name "63308329-4775-43fd-b4d3-a09c35351f4d",
-  :block/created-at 1664130773937,
-  :block/updated-at 1664130773937}
- {:block/name "63308330-7b52-43d3-a273-4de070931b1d",
-  :block/created-at 1664130773939,
-  :block/updated-at 1664130773939}
- {:block/name "63308384-c5e0-402b-bd07-9e396b96d1ce",
-  :block/created-at 1664130773950,
-  :block/updated-at 1664130773950}
+  :block/created-at 1664264374441,
+  :block/updated-at 1664264374441}
+ {:block/name "$red",
+  :block/created-at 1664264374442,
+  :block/updated-at 1664264374442}
  {:block/name "a",
   :block/created-at 1664109273199,
   :block/updated-at 1664109273199}
@@ -58,24 +31,21 @@
  {:block/name "done",
   :block/created-at 1664109273198,
   :block/updated-at 1664109273198}
- {:block/name "draws/2022-09-26-11-20-19.excalidraw",
-  :block/created-at 1664166013536,
-  :block/updated-at 1664166013536}
  {:block/name "favorites",
   :block/created-at 1664109273198,
   :block/updated-at 1664109273198}
  {:block/name "file",
-  :block/created-at 1664113826851,
-  :block/updated-at 1664113826851}
+  :block/created-at 1664264374112,
+  :block/updated-at 1664264374112}
  {:block/name "file-path",
-  :block/created-at 1664113826852,
-  :block/updated-at 1664113826852}
+  :block/created-at 1664264374111,
+  :block/updated-at 1664264374111}
  {:block/name "hls__theeconomist.2022.09.10_1664113802786_0",
-  :block/created-at 1664113826842,
-  :block/updated-at 1664113826842}
+  :block/created-at 1664264374109,
+  :block/updated-at 1664264374109}
  {:block/name "hls__theeconomist.2022.09.10_1664113844508_0",
-  :block/created-at 1664114166968,
-  :block/updated-at 1664261933082}
+  :block/created-at 1664264374447,
+  :block/updated-at 1664264374447}
  {:block/name "in-progress",
   :block/created-at 1664109273199,
   :block/updated-at 1664109273199}
@@ -83,17 +53,17 @@
   :block/created-at 1664109273199,
   :block/updated-at 1664109273199}
  {:block/name "liz truss",
-  :block/created-at 1664113914268,
-  :block/updated-at 1664113914268}
+  :block/created-at 1664264375425,
+  :block/updated-at 1664264375425}
  {:block/name "now",
   :block/created-at 1664109273198,
   :block/updated-at 1664109273198}
  {:block/name "sep 25th, 2022",
-  :block/created-at 1664115132993,
-  :block/updated-at 1664122862873}
+  :block/created-at 1664264373873,
+  :block/updated-at 1664264373873}
  {:block/name "sep 26th, 2022",
-  :block/created-at 1664121601176,
-  :block/updated-at 1664259862946}
+  :block/created-at 1664264373942,
+  :block/updated-at 1664264373942}
  {:block/name "sep 27th, 2022",
   :block/created-at 1664259844395,
   :block/updated-at 1664259844395}
@@ -107,95 +77,92 @@
   :block/created-at 1664109273198,
   :block/updated-at 1664109273198}
  {:block/name "不同社会力量对国家出路的早期探索",
-  :block/created-at 1664123168712,
-  :block/updated-at 1664123454059}
+  :block/created-at 1664264374602,
+  :block/updated-at 1664264374602}
  {:block/name "中华人民共和国的成立与中国社会主义建设道路的探索",
-  :block/created-at 1664156306685,
-  :block/updated-at 1664156426432}
+  :block/created-at 1664264374622,
+  :block/updated-at 1664264374622}
  {:block/name "中华民族的抗日战争",
-  :block/created-at 1664125354181,
-  :block/updated-at 1664172080754}
+  :block/created-at 1664264374685,
+  :block/updated-at 1664264374685}
  {:block/name "中国共产党成立和中国革命新局面",
-  :block/created-at 1664124297780,
-  :block/updated-at 1664124976874}
+  :block/created-at 1664264374830,
+  :block/updated-at 1664264374830}
  {:block/name "中国梦",
-  :block/created-at 1664157494750,
-  :block/updated-at 1664157494750}
+  :block/created-at 1664264374881,
+  :block/updated-at 1664264374881}
  {:block/name "中国特色社会主义进入新时代",
-  :block/created-at 1664156450398,
-  :block/updated-at 1664157513481}
+  :block/created-at 1664264374888,
+  :block/updated-at 1664264374888}
  {:block/name "中国近代史纲要",
-  :block/created-at 1664109608749,
-  :block/updated-at 1664156450399}
+  :block/created-at 1664264373866,
+  :block/updated-at 1664264373866}
  {:block/name "中国革命的新道路",
-  :block/created-at 1664125344945,
-  :block/updated-at 1664125723195}
+  :block/created-at 1664264374993,
+  :block/updated-at 1664264374993}
  {:block/name "为建立新中国而奋斗",
-  :block/created-at 1664125363166,
-  :block/updated-at 1664130136524}
+  :block/created-at 1664264374995,
+  :block/updated-at 1664264374995}
  {:block/name "义和团运动",
-  :block/created-at 1664123051674,
-  :block/updated-at 1664123051674}
+  :block/created-at 1664264375479,
+  :block/updated-at 1664264375479}
  {:block/name "五位一体",
-  :block/created-at 1664157513480,
-  :block/updated-at 1664157513480}
+  :block/created-at 1664264374883,
+  :block/updated-at 1664264374883}
  {:block/name "五四运动",
-  :block/created-at 1664124908205,
-  :block/updated-at 1664124908205}
+  :block/created-at 1664264374819,
+  :block/updated-at 1664264374819}
  {:block/name "十月革命",
-  :block/created-at 1664124918773,
-  :block/updated-at 1664124918773}
+  :block/created-at 1664264374823,
+  :block/updated-at 1664264374823}
  {:block/name "国共合作",
-  :block/created-at 1664124962034,
-  :block/updated-at 1664124962034}
+  :block/created-at 1664264374828,
+  :block/updated-at 1664264374828}
  {:block/name "国民党",
-  :block/created-at 1664125723193,
-  :block/updated-at 1664125723193}
+  :block/created-at 1664264375258,
+  :block/updated-at 1664264375258}
  {:block/name "土地革命",
-  :block/created-at 1664125686585,
-  :block/updated-at 1664125686585}
+  :block/created-at 1664264375259,
+  :block/updated-at 1664264375259}
  {:block/name "大革命",
-  :block/created-at 1664124976866,
-  :block/updated-at 1664124976866}
+  :block/created-at 1664264374827,
+  :block/updated-at 1664264374827}
  {:block/name "小康社会",
-  :block/created-at 1664157480602,
-  :block/updated-at 1664157480602}
+  :block/created-at 1664264374880,
+  :block/updated-at 1664264374880}
  {:block/name "抗日战争",
-  :block/created-at 1664126561276,
-  :block/updated-at 1664126561276}
+  :block/created-at 1664264374679,
+  :block/updated-at 1664264374679}
  {:block/name "改革开放与中国特色社会主义的开创和发展",
-  :block/created-at 1664156443862,
-  :block/updated-at 1664156600379}
+  :block/created-at 1664264374998,
+  :block/updated-at 1664264374998}
  {:block/name "新文化运动",
-  :block/created-at 1664124899318,
-  :block/updated-at 1664124899318}
+  :block/created-at 1664264374820,
+  :block/updated-at 1664264374820}
  {:block/name "新民主主义",
-  :block/created-at 1664124941250,
-  :block/updated-at 1664124941250}
+  :block/created-at 1664264374824,
+  :block/updated-at 1664264374824}
  {:block/name "毛主席著作",
-  :block/created-at 1664162379526,
-  :block/updated-at 1664162700419}
+  :block/created-at 1664264373938,
+  :block/updated-at 1664264373938}
  {:block/name "红军长征",
-  :block/created-at 1664125707180,
-  :block/updated-at 1664125707180}
+  :block/created-at 1664264375261,
+  :block/updated-at 1664264375261}
  {:block/name "经济学人0910",
-  :block/created-at 1664113776247,
-  :block/updated-at 1664260111263}
- {:block/name "辛亥革命",
-  :block/created-at 1664123876494,
-  :block/updated-at 1664123876494}
+  :block/created-at 1664264373935,
+  :block/updated-at 1664264373935}
  {:block/name "辛亥革命与君主专制制度的终结",
-  :block/created-at 1664123549682,
-  :block/updated-at 1664130957504}
+  :block/created-at 1664264374989,
+  :block/updated-at 1664264374989}
  {:block/name "进入近代后中华民族的磨难与抗争",
-  :block/created-at 1664121822490,
-  :block/updated-at 1664123051675}
+  :block/created-at 1664264374986,
+  :block/updated-at 1664264374986}
  {:block/name "遵义会议",
-  :block/created-at 1664125698441,
-  :block/updated-at 1664125698441}
+  :block/created-at 1664264375260,
+  :block/updated-at 1664264375260}
  {:block/name "马克思主义",
-  :block/created-at 1664124929468,
-  :block/updated-at 1664124929468}
+  :block/created-at 1664264374822,
+  :block/updated-at 1664264374822}
  {:block/name "鸦片战争",
-  :block/created-at 1664123036112, 
-  :block/updated-at 1664123036112}]
+  :block/created-at 1664264375477, 
+  :block/updated-at 1664264375477}]
